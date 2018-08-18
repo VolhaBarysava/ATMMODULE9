@@ -16,6 +16,7 @@ public class BasePage {
 	private static final int DEFAULT_TIMEOUT = 15;
 	
 	DriverManager driverManager;
+// 	please add access modifier to DriverManager
 	public WebDriver driver;
 
 	public BasePage(WebDriver driver) {
