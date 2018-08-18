@@ -29,7 +29,8 @@ public class TestBase {
 
 	
 	static final String EXPECTED_FIRST_ACCOUNT = "vra_atmmodule5@mail.ru"; 
-	static final String EXPECTED_SECOND_ACCOUNT = "vra_atmmodule6@mail.ru"; 
+	static final String EXPECTED_SECOND_ACCOUNT = "vra_atmmodule6@mail.ru";
+// 	please add access modifiers 
 	
 	
 	
