@@ -4,6 +4,7 @@ public class DriverManagerFactory {
 	public static DriverManager getManager(DriverType type) {
 
         DriverManager driverManager;
+// 		please add access modifier to driverManager
 
         switch (type) {
             case CHROME:
